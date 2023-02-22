@@ -8,6 +8,18 @@
 }
 
 .App {
+  background-color: var(--isabelline);
   text-align: center;
+  height: 100vh;
 }
 
+.nav-bar{
+  text-decoration: none;
+}
+
+.contact{
+}
+
+.header{
+  color: var(--littleGirlPink);
+}
