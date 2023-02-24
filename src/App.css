@@ -9,10 +9,12 @@
 .App {
   text-align: center;
   height: 100vh;
+  background-color: var(--pastelBeige);
 }
 
 .header{
   height: 20vh;
+  font-size: 5rem;
 }
 
 .about{
@@ -21,7 +23,7 @@
 
 .my-journey{
   background-color: var(--pastelEggplant);
-  color: var(--pastelBeige);
+  color: white;
   width: 35rem;
   margin: auto;
   padding: 1rem;
@@ -31,11 +33,16 @@
 .nav-bar{
   text-decoration: none;
   border: solid blue;
+  
   height: 5vh;
   display: flex;
   justify-content: space-around;
 }
 
+a{
+  text-decoration: none;
+  color: var(--pastelTeal);
+}
 .contact{
   border: solid purple;
   position: absolute;
