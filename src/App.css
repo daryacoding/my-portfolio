@@ -1,23 +1,35 @@
 :root{
-  --littleGirlPink: #F2BFD7;
-  --piggyPink: #F6D7E8;
-  --isabelline: #F6EDEE;
-  --languidLavender: #F6EDEE;
-  --champagne: #F2E8CE;
-  --almond: #F1DCC5;
+  --littleGirlPink: #fce1e4;
+  --eggshell: #daeaf6;
+  --sage: #ddedea;
+  --languidLavender: #e8dff5;
+  --champagne: #fc4dd;
 }
 
 .App {
-  background-color: var(--isabelline);
   text-align: center;
   height: 100vh;
 }
 
+.about{
+  border: solid gray;
+  color: var(--languidLavender);
+}
+
+.my-journey{
+  background-color: black;
+  width: 25rem;
+  margin: auto;
+  padding: 5rem 0;
+}
+
 .nav-bar{
   text-decoration: none;
+  border: solid blue;
 }
 
 .contact{
+  border: solid purple;
 }
 
 .header{
