@@ -1,9 +1,9 @@
 :root{
-  --littleGirlPink: #fce1e4;
-  --eggshell: #daeaf6;
-  --sage: #ddedea;
-  --languidLavender: #e8dff5;
-  --champagne: #fc4dd;
+  --pastelTeal: #AAC9CE;
+  --pastelEggplant: #B6B4C2;
+  --pastelPurple: #C9BBC8;
+  --pastelPink: #E5C1CD;
+  --pastelBeige: #F3DBCF;
 }
 
 .App {
@@ -13,14 +13,15 @@
 
 .about{
   border: solid gray;
-  color: var(--languidLavender);
 }
 
 .my-journey{
-  background-color: black;
-  width: 25rem;
+  background-color: var(--pastelEggplant);
+  color: var(--pastelBeige);
+  width: 35rem;
   margin: auto;
-  padding: 5rem 0;
+  padding: 1rem;
+  border-radius: 5%;
 }
 
 .nav-bar{
