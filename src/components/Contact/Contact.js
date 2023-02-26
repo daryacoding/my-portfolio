@@ -5,7 +5,7 @@ import { VscMail } from 'react-icons/vsc'
 export default function Contact() {
     return (
         <div className='contact'>
-            <BsGithub />
+            <BsGithub href="https://github.com/daryacoding" />
             <BsLinkedin />
             <VscMail />
         </div>
