@@ -33,6 +33,19 @@ export default function Projects() {
                     </ul>
                 </div>
             </div>
+            <div className='project'>
+                <img className='project-image' src={tvParty} alt='tv-party' width='500rem' height='350rem' />
+                <div className='project-info'>
+                    <h4>My Little Messenger</h4>
+                    <p>
+                    A MERN stack messenger application where users should be able to communicate in real-time.
+                    </p>
+                    <ul>
+                        <li>Utilized a full stack MongoDB, Express, React, Node.js to build a CRUD application in 2 weeks</li>
+                        <li>Created application with a back-end approach first and styled with CSS flexbox using restful API routes.</li>
+                    </ul>
+                </div>
+            </div>
         </div>
     )
 }
