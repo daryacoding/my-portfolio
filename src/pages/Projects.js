@@ -16,6 +16,10 @@ export default function Projects() {
                         <li>Utilized a full stack MongoDB, Express, React, Node.js to build a CRUD application in 2 weeks</li>
                         <li>Created application with a back-end approach first and styled with CSS flexbox using restful API routes.</li>
                     </ul>
+                    <div className='project-links'>
+                        <a href='https://github.com/daryacoding/tv_party'>Github</a>
+                        <a href='https://tv-watchparty.herokuapp.com/shows'>Launch App</a>
+                    </div>
                 </div>
             </div>
             <div className='project'>
@@ -31,6 +35,10 @@ export default function Projects() {
                         <li>Utilized a full stack MongoDB, Express, React, Node.js to build a CRUD application in 2 weeks.</li>
                         <li>Created an application with a mobile-first approach and styled the application using React-Components and SCSS.</li>
                     </ul>
+                    <div className='project-links'>
+                        <a href='https://github.com/bjlovee/instagram'>Github</a>
+                        <a href='https://instafake.herokuapp.com'>Launch App</a>
+                    </div>
                 </div>
             </div>
             <div className='project'>
@@ -44,6 +52,10 @@ export default function Projects() {
                         <li>Utilized a full stack MongoDB, Express, React, Node.js to build a CRUD application in 2 weeks</li>
                         <li>Created application with a back-end approach first and styled with CSS flexbox using restful API routes.</li>
                     </ul>
+                    <div className='project-links'>
+                        <a href='https://github.com/daryacoding/messenger'>Github</a>
+                        <a href='https://mylittlemessenger.herokuapp.com/'>Launch App</a>
+                    </div>
                 </div>
             </div>
         </div>

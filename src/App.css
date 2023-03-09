@@ -25,7 +25,7 @@
   color: var(--pastelBeige);
   width: 100vw;
   margin: auto;
-  padding: 1rem;
+  padding: 2rem;
   font-size: 1.5rem;
 }
 
@@ -38,7 +38,8 @@
 
 a{
   text-decoration: none;
-  color: var(--pastelTeal);
+  color: var(--pastelBeige);
+  font-weight: bold;
 }
 .contact{
   border: solid purple;
@@ -53,7 +54,7 @@ a{
 .projects {
   display: flex;
   flex-direction: column;
-  background-color: var(--pastelTeal);
+  align-items: space-between;
 }
 
 .projects:img {
@@ -62,7 +63,18 @@ a{
 }
 .project {
   display: flex;
-  padding: 5rem;
+  background-color: var(--pastelTeal);
+  color: var(--pastelBeige);
+  text-align: left;
+  width: 100vw;
+  margin: 1rem;
+  padding: 2rem;
+  font-size: 1.5rem;
+}
+
+.project-links {
+  display: flex;
+  justify-content: space-around;
 }
 
 .project-image:hover {
