@@ -17,8 +17,8 @@ export default function Projects() {
                         <li>Created application with a back-end approach first and styled with CSS flexbox using restful API routes.</li>
                     </ul>
                     <div className='project-links'>
-                        <a href='https://github.com/daryacoding/tv_party'>Github</a>
-                        <a href='https://tv-watchparty.herokuapp.com/shows'>Launch App</a>
+                        <a href='https://github.com/daryacoding/tv_party' target='_blank'>Github</a>
+                        <a href='https://tv-watchparty.herokuapp.com/shows' target='_blank'>Launch App</a>
                     </div>
                 </div>
             </div>
@@ -36,8 +36,8 @@ export default function Projects() {
                         <li>Created an application with a mobile-first approach and styled the application using React-Components and SCSS.</li>
                     </ul>
                     <div className='project-links'>
-                        <a href='https://github.com/bjlovee/instagram'>Github</a>
-                        <a href='https://instafake.herokuapp.com'>Launch App</a>
+                        <a href='https://github.com/bjlovee/instagram' target='_blank'>Github</a>
+                        <a href='https://instafake.herokuapp.com' target='_blank'>Launch App</a>
                     </div>
                 </div>
             </div>
@@ -53,8 +53,8 @@ export default function Projects() {
                         <li>Created application with a back-end approach first and styled with CSS flexbox using restful API routes.</li>
                     </ul>
                     <div className='project-links'>
-                        <a href='https://github.com/daryacoding/messenger'>Github</a>
-                        <a href='https://mylittlemessenger.herokuapp.com/'>Launch App</a>
+                        <a href='https://github.com/daryacoding/messenger' target='_blank'>Github</a>
+                        <a href='https://mylittlemessenger.herokuapp.com/' target='_blank'>Launch App</a>
                     </div>
                 </div>
             </div>
