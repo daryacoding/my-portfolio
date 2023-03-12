@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter&family=Great+Vibes&display=swap');
+
 :root{
   --pastelTeal: #AAC9CE;
   --pastelEggplant: #B6B4C2;
@@ -9,11 +11,14 @@
 .App {
   text-align: center;
   height: 100vh;
+  font-family: 'Bitter', serif;
+
 }
 
 .header{
   height: 20vh;
   font-size: 5rem;
+  font-family: 'Great Vibes' cursive;
 }
 
 /* .about{
@@ -23,7 +28,6 @@
 .my-journey{
   background-color: var(--pastelTeal);
   color: var(--pastelBeige);
-  width: 100vw;
   margin: auto;
   padding: 2rem;
   font-size: 1.5rem;
@@ -66,7 +70,6 @@ a{
   background-color: var(--pastelTeal);
   color: var(--pastelBeige);
   text-align: left;
-  width: 100vw;
   margin: 1rem;
   padding: 2rem;
   font-size: 1.5rem;
