@@ -47,7 +47,7 @@ a{
 }
 .contact{
   border: solid purple;
-  position: absolute;
+  position: fixed;
   bottom: 0rem;
 }
 
