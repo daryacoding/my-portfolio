@@ -27,7 +27,7 @@ export default function Nav() {
                 <Link to="/">Home</Link>
                 <Link to="/projects">Projects</Link>
                 <Link to="/experience">Experience</Link>
-                <a href='https://docs.google.com/document/d/1S7BpdCiVfFoFWLIiyvcqzw68rkPQf40xXSph9saZiFA/edit?usp=sharing' target='_blank'>My Resume</a>
+                {/* <a href='https://docs.google.com/document/d/1S7BpdCiVfFoFWLIiyvcqzw68rkPQf40xXSph9saZiFA/edit?usp=sharing' target='_blank'>My Resume</a> */}
             </div>
         </div>
     )
